@@ -1,0 +1,26 @@
+img {
+    height: 500px;
+    width: 500px;
+}
+body {
+    background-color:rgba(200, 42, 163, 0); /*background color of the webpage if applicable*/
+}
+p {
+    color:rgb(204, 33, 116); /* color  and font style of the contents of paragraph p */
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bolder;
+}
+p1 {
+    color:rgb(46, 177, 46);  /* color  and font style of the contents of paragraph p1 */
+    font-weight: bold;
+    font-size: medium;
+}
+strong{
+    color:rgb(46, 177, 46);  /* color  and font style of the contents of paragraph p1 */
+    font-weight: bolder;
+    font-size: xx-large;
+}
+body {
+    text-align:justify;
+}
